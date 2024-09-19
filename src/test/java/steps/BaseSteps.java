@@ -1,5 +1,6 @@
 package steps;
 
+import base.BaseTest;
 import com.thoughtworks.gauge.Step;
 import model.ElementInfo;
 import org.junit.jupiter.api.Assertions;
