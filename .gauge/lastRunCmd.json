@@ -1,0 +1,8 @@
+[
+	"/opt/homebrew/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/n100764/Desktop/burcuonal/specs/page.spec:4"
+]

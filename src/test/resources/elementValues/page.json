@@ -1,0 +1,23 @@
+[{
+  "key": "continue",
+  "value": "continue",
+  "type": "id"
+},
+{
+  "key": "proceedToRetailCheckout",
+  "value": "proceedToRetailCheckout",
+  "type": "name"
+},
+{
+  "key": "firstmouse",
+  "value": "(//div[@data-testid='div-Appointment-11'])[1]",
+  "type": "xpath"
+},
+
+  {
+    "key": "ilacsilButton",
+    "value":"//button[@data-testid='button-ReminderForm-5']",
+    "type": "css"
+  }
+
+]

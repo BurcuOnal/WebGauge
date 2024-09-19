@@ -1,0 +1,7 @@
+# KullaniciLoginOlur
+* Go to "" address
+* Write value "59479300000" to element "tckimliknotextbox"
+* Elementine tıkla "dgtarihitextbox"
+* Elementine tıkla "girisyapbutton"
+* Gorunur olmasini bekle "smscodeLabel"
+* Element "raporlabel" var mı kontrol et yoksa hata mesajı ver "message"
